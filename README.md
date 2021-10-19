@@ -1,10 +1,19 @@
 # Tour-And-Travel-Website-Using-Bootstrap
 Tour And Travel Website Using HTML CSS And Bootstrap
 
+-----------------------------------------------------------------------
+This Project is not Fully Responsive We Just Wants to give the idea
+------------------------------------------------------------------------
+
+
+
 
 ======================================================
 STEPS TO RUN THE PROJECT
 ======================================================
+
+
+
 
 1. Download The Zip File
 2. Extract the file
